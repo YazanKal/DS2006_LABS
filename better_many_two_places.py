@@ -1,5 +1,6 @@
 import copy
 
+print("Welcome to better_many_two_places_game")
 visited_places = {
     "city": "",
     "country": "",
